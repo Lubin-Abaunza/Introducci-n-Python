@@ -2,7 +2,7 @@
 
 Este repositorio contiene un Jupyter Notebook (`IntroduccionPython.ipynb`) que sirve como una guía práctica y completa para la manipulación, limpieza, análisis y visualización de datos utilizando el ecosistema de Python, con un enfoque especial en `pandas`.
 
-El notebook fue desarrollado como material educativo, probablemente para un curso universitario (de la Universidad Nacional de Colombia), y es ideal para estudiantes o profesionales que quieran reforzar sus habilidades en **procesamiento de datos con Python**.
+El notebook fue desarrollado como material educativo, y es ideal para quienes quieran reforzar sus habilidades en **procesamiento de datos con Python**.
 
 ---
 
